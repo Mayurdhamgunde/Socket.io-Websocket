@@ -11,4 +11,17 @@
 Socket.IO enables real-time bidirectional event-based communication. It consists of:
 
 - a Node.js server (this repository)
-- a [Javascript client library](https://github.com/socketio/socket.io-client) for the browser (or a Node.js client)
+- a [Javascript client library](https://github.com/socketio/socket.io-client) for the browser (or a Node.js client)<hr>
+
+# 📸Chat-App (ReacJs)
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/Socket.io-Websocket/blob/master/WebSocket-piyu/photos/1.png?raw=true" width="75%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/Socket.io-Websocket/blob/master/WebSocket-piyu/photos/3.png?raw=true" width="75%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/Socket.io-Websocket/blob/master/WebSocket-piyu/photos/4.png?raw=true" width="75%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/Socket.io-Websocket/blob/master/WebSocket-piyu/photos/5.png?raw=true" width="75%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/Socket.io-Websocket/blob/master/WebSocket-piyu/photos/6.png?raw=true" width="75%"/><hr>
+
+# -📸Chat-App (Javascript)
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/Socket.io-Websocket/blob/master/CHATAPP-socket.io/project_images/first-1.png?raw=true" width="75%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/Socket.io-Websocket/blob/master/CHATAPP-socket.io/project_images/second-2.png?raw=true" width="75%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/Socket.io-Websocket/blob/master/CHATAPP-socket.io/project_images/third-3.png?raw=true" width="75%"/>
+
