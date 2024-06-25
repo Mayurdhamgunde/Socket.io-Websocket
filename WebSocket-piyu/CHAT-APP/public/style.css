@@ -1,0 +1,25 @@
+button{
+    cursor: pointer;
+    padding: 5px;
+    border: transparent;
+    margin: 2px;
+    width: 100px;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: large;
+    letter-spacing: 3px;
+    color: black;
+    border-radius: 8px;
+    background-color: rgb(62, 255, 158);
+}
+
+button:hover{
+    background-color: rgb(110, 246, 178);
+    color: white;
+}
+
+input{
+    padding: 6px;
+    border-color: gainsboro;
+    border-style: solid;
+}
